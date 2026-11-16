@@ -1,5 +1,17 @@
 {
-  "updated_at": "2026-11-16T00:44:19+00:00",
-  "configured_ids": [],
-  "products": {}
+  "updated_at": "2026-11-16T01:21:04+00:00",
+  "configured_ids": [
+    "srd-r5-white"
+  ],
+  "products": {
+    "srd-r5-white": {
+      "history": [],
+      "name": "SRD R5 510 루나화이트",
+      "url": "https://emart.ssg.com/item/itemView.ssg?itemId=1000798067810&siteNo=6001&salestrNo=6005",
+      "currency": "KRW",
+      "last_status": "error",
+      "last_checked": "2026-11-16T01:21:04+00:00",
+      "last_error": "기본 요청: 403 Client Error: Forbidden for url: https://emart.ssg.com/item/itemView.ssg?itemId=100079 / 브라우저: 가격 정보(JSON-LD/meta)를 찾지 못했습니다"
+    }
+  }
 }
