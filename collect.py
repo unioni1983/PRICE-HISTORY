@@ -135,6 +135,9 @@ def browser_html(url):
 
 def collect_one(item):
     url = item['url']
+    if item.get('option_name'):
+        from ssg_option_patch import get_option_price
+        return get_option_price(url, item['option_name'])
     if not valid_url(url):
         raise ValueError('https:// 상품 URL만 등록할 수 있습니다')
     selector = item.get('selector') or None
