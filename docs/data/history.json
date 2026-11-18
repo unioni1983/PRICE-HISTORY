@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T13:14:12+00:00",
+  "updated_at": "2026-11-18T01:25:17+00:00",
   "configured_ids": [
     "srd-r5-white"
   ],
@@ -10,7 +10,7 @@
       "url": "https://emart.ssg.com/item/itemView.ssg?itemId=1000798067810&siteNo=6001&salestrNo=6005",
       "currency": "KRW",
       "last_status": "error",
-      "last_checked": "2026-11-17T13:14:12+00:00",
+      "last_checked": "2026-11-18T01:25:17+00:00",
       "last_error": "쇼핑몰 자동 접속 제한: HTTP 403"
     }
   }
